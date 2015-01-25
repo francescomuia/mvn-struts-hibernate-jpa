@@ -1,0 +1,1 @@
+# mvn-struts-hibernate-jpa
